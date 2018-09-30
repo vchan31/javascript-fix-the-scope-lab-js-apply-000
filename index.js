@@ -13,7 +13,11 @@ function yourAnimal() {
 }
 
 function add2(n) {
+<<<<<<< HEAD
   return n + 2
+=======
+  return n 
+>>>>>>> 8db889ae57a5026c70d5a4d279d97fc5704bef7f
   // Feel free to move things around!
   
 }
